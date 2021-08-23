@@ -256,14 +256,14 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Auto-Reboot/</loc>
+    <loc>https://allmainashley.github.io/tags/Qv2ray/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Qv2ray/</loc>
+    <loc>https://allmainashley.github.io/tags/Auto-Reboot/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -284,7 +284,7 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/MxNet/</loc>
+    <loc>https://allmainashley.github.io/tags/Dataset-Analysis/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -298,14 +298,14 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Colab/</loc>
+    <loc>https://allmainashley.github.io/tags/MxNet/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Dataset-Analysis/</loc>
+    <loc>https://allmainashley.github.io/tags/Colab/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -340,13 +340,6 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Octave/</loc>
-    <lastmod>2021-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://allmainashley.github.io/tags/Statistics/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
@@ -361,7 +354,7 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/tags/Materials/</loc>
+    <loc>https://allmainashley.github.io/tags/Octave/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -369,6 +362,13 @@
   
   <url>
     <loc>https://allmainashley.github.io/tags/OpenCV/</loc>
+    <lastmod>2021-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://allmainashley.github.io/tags/Materials/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/categories/System/</loc>
+    <loc>https://allmainashley.github.io/categories/Notes/Linux/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -412,14 +412,7 @@
   </url>
   
   <url>
-    <loc>https://allmainashley.github.io/categories/Notes/Linux/</loc>
-    <lastmod>2021-08-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://allmainashley.github.io/categories/Notes/Algorithms/</loc>
+    <loc>https://allmainashley.github.io/categories/System/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -427,6 +420,13 @@
   
   <url>
     <loc>https://allmainashley.github.io/categories/Notes/MySQL/</loc>
+    <lastmod>2021-08-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://allmainashley.github.io/categories/Notes/Algorithms/</loc>
     <lastmod>2021-08-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
